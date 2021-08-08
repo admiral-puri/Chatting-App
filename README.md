@@ -56,6 +56,6 @@ PyConChat
 - View group admin
 - If a user enters a group name which does not exist, a new group with the user as admin is automatically created.
 
-## Upcoming
+<!-- ## Upcoming
 1. Offline Messages
-2. Password authentication
+2. Password authentication -->
